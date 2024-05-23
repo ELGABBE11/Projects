@@ -16,7 +16,13 @@ const songsList = [
         artist: "Huma-Huma",
         src: "assets/3.mp3",
         cover: "assets/3.jpg"
-    }
+    },
+    {
+        name: "All Star From shrek",
+        artist: "Smash Mouth",
+        src: "assets/4.mp3",
+        cover: "assets/4.jpg"
+    },
 ];
 
 const artistName = document.querySelector('.artist-name');
